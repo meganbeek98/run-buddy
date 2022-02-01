@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body {
     /* I'm a CSS comment! */
@@ -40,4 +41,31 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+
+/* Apply styles to footer */
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+/* applying style to left <h2> element */
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+/* applying style to the right <div> container that holds the rest of the content */
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+/* applying style to the <a> element */
+footer a {
+    color: #024e76;
 }
