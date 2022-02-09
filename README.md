@@ -1,7 +1,7 @@
 # Run Buddy
 
 ## Purpose
-A Website that offers firness trainging services.
+A Website that offers firness training services.
 
 ## Built With
 * HTML
