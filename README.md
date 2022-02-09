@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 A Website that offers firness training services.
@@ -12,3 +12,5 @@ https://github.com/meganbeek98/run-buddy/
 
 ## Contribution
 Made with ❤️ by Megan Beekman
+
+### ©️2019 Run Buddy, Inc
